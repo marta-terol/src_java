@@ -60,3 +60,5 @@ public class InfoUtils {
             return "B";
     }
 }
+
+//Modificado por Sevilla
